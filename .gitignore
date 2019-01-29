@@ -1,0 +1,4 @@
+.vscode
+__pycache__/
+*.pyc
+temp_model.h5
